@@ -1,0 +1,9 @@
+a=['j','k']
+print(a)
+b=(1,2)
+print(b)
+d1={'b':'a'}
+print(d1)
+d2={'a':'b'}
+print(d2)
+
